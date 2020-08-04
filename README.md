@@ -2,7 +2,12 @@
 
 ##install nodejs
 npm install express for the npm modules and framework
+
+
 install nodemon which enables continuous connection to server
+
+
+install postman for checking the api's.
 
  
  Create a user
