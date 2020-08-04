@@ -9,6 +9,10 @@ install nodemon which enables continuous connection to server
 
 install postman for checking the api's.
 
+ create mysql table for user and product
+ 
+ connect the database with the app by establishing proper connection
+ 
  
  Create a user
 
